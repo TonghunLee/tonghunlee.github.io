@@ -2,7 +2,6 @@
 permalink: /teaching/
 title: "Teaching"
 redirect_from: 
-  - /teaching/
   - /teaching.html
 ---
 
